@@ -1,4 +1,4 @@
-package uz.cbssolutions.broker.error;
+package com.github.israiloff.broker.error;
 
 /**
  * Error indicates that type of message is different from expected one.

@@ -1,4 +1,4 @@
-package uz.cbssolutions.broker.error;
+package com.github.israiloff.broker.error;
 
 /**
  * Error which indicates that subscriber's implementations are not exist.

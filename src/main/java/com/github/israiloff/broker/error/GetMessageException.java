@@ -1,4 +1,4 @@
-package uz.cbssolutions.broker.error;
+package com.github.israiloff.broker.error;
 
 /**
  * Indicates that get message process error occurred.
