@@ -1,4 +1,4 @@
-package com.github.israiloff.broker.error;
+package io.github.israiloff.broker.error;
 
 /**
  * Error indicates that type of message is different from expected one.

@@ -1,4 +1,4 @@
-package com.github.israiloff.broker.error;
+package io.github.israiloff.broker.error;
 
 /**
  * Indicates name of the topic cant be resolved.

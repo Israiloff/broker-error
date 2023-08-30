@@ -1,4 +1,4 @@
-package com.github.israiloff.broker.error;
+package io.github.israiloff.broker.error;
 
 /**
  * Indicates that get message process error occurred.
